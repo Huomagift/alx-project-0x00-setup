@@ -7,9 +7,10 @@ const Landing: React.FC = () => {
             <Card />
             <Card />
             <Card />
-            <Button title="small rounded-full" styles="small rounded-full bg-blue-400" />
-            <Button title="meduim rounded-sm" styles="medium rounded-sm bg-blue-700" />
-            <Button title="large rounded-md" styles="large rounded-md bg-blue-600" />
+            <Button title="Book Now" styles="small rounded-full bg-blue-400" />
+            <Button title="Book Now" styles="medium rounded-sm bg-blue-700" />
+            <Button title="Book Now" styles="large rounded-md bg-blue-600" />
+            <Button title="Book Now" styles="large rounded-lg bg-blue-300" />
         </div>
     )
 }
